@@ -7,6 +7,7 @@ namespace hardik{
       cout<<"Hello hardik";
     }
 }
+using namespace hardik;
 int main (){
     get();
    }
